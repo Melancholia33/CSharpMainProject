@@ -30,7 +30,7 @@ namespace Model.Runtime.Projectiles
             localHeight = maxHeight * (-(t * 2 - 1) * (t * 2 - 1) + 1);
 
 
-            //домашнее задание 2, полет снаряда по дуге 
+            //
             // 
             ///////////////////////////////////////
             
