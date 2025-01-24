@@ -35,7 +35,7 @@ namespace UnitBrains.Player
             for (int i = 0; i < bulletCount; i++)
             {
                 var geberatedProjectile = CreateProjectile(forTarget);
-                AddProjectileToList(projectile, intoList);
+                AddProjectileToList(geberatedProjectile, intoList);
             }
         }
 
